@@ -1,0 +1,8 @@
+PyPDF2
+pymupdf
+opencv-python
+pytesseract
+pillow
+pandas
+scikit-learn
+numpy
